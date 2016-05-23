@@ -16,7 +16,8 @@
     "chaplin": "~0.10.0",
     "console-polyfill": "~0.1.0",
     "underscore.string": "~2.3.3",
-    "Backbone.localStorage": "~1.1.6"
+    "Backbone.localStorage": "~1.1.6",
+    "jquery.serializeJSON": "~1.0.1"
   },
   "overrides": {
     "backbone": {
